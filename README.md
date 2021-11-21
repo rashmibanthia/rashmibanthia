@@ -2,8 +2,14 @@
 
 Kaggle Projects - https://rashmibanthia.github.io/project/ 
 
+
+
 <!--
 **rashmibanthia/rashmibanthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rashmibanthia/competition)
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rashmibanthia/competition/light)
+
 
 Here are some ideas to get you started:
 
