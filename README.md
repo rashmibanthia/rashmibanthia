@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Kaggle Projects - https://rashmibanthia.github.io/project/ 
+Kaggle Projects - https://kaggle.com/rashmibanthia/
 
 
 
